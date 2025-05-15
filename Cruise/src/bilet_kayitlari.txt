@@ -1,0 +1,9 @@
+damla.akpinar|Kuğu Gölü|İstanbul|Ocak|BILET50269
+mustafa.gök|Antalya Altın Portakal Film Festivali|Antalya|Eylül|BILET54006
+mustafa.gök|Antalya Altın Portakal Film Festivali|Antalya|Eylül|BILET5390
+bensuİnce|Bir Delinin Hatıra Defteri|Ordu|Kasım|BILET91487
+Eymen|Psikoloji Zirvesi|Mersin|Temmuz|BILET80535
+nevzat|Piramitlere Yolculuk - Antik Mısır'ın Keşfi|İstanbul|Ekim|BILET88700
+nevzat|Piramitlere Yolculuk - Antik Mısır'ın Keşfi|İstanbul|Ekim|BILET58401
+nevzat|Piramitlere Yolculuk - Antik Mısır'ın Keşfi|İstanbul|Ekim|BILET84288
+gezgin85|Gökhan Türkmen Konseri|İzmir|Mart|BILET32975

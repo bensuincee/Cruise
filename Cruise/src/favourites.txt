@@ -1,0 +1,6 @@
+damla.akpinar|Kuğu Gölü|İstanbul|Ocak|BILET82301
+damla.akpinar|Beden ve Zihin Dengesi|Mardin|Mart|BILET79529
+bensuİnce|Gladyatör 2|İstanbul|Ocak|BILET91503
+Eymen|Sagopa Kajmer Konseri|İstanbul|Ocak|BILET70943
+nevzat|Sayara: İntikam Meleği|Denizli|Ekim|BILET9989
+gezgin85|Kalben Konseri|Ankara|Ocak|BILET72602
